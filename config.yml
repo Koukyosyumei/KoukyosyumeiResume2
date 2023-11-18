@@ -25,8 +25,7 @@ menu:
           weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
+    description: "I’m a 4th-year undergrad at the University of Tokyo, majoring in Informatics. My main interests lie at the intersection of AI, security&privacy, and system technologies."
     author: Hideaki Takahashi
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "Nov. 2023"
@@ -50,42 +49,42 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Hideaki Takahashi
+          subtitle: "I’m a 4th-year undergrad at the University of Tokyo, majoring in Informatics. My main interests lie at the intersection of AI, security&privacy, and system technologies. I’ve gained research experience in privacy-preserving machine learning, secure planning, graph anonymization, distributed system, and HPC, with several first-authored papers, including one accepted at CVPR. I actively contribute to open-source projects, and my project “AIJack,” offering attack, defense, and debugging tools for ML, has gained over 200 stars on GitHub. I’ve also earned several medals at Kaggle."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Hideaki Takahashi
           buttons:
             - name: Papers
               url: papers/
             - name: Courses
               url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+                #- name: Data
+                #url: data/
+                #- name: Newsletter
+                #url: https://pmichaillat.substack.com
+                #- name: Tags
+                #url: tags/
+                #- name: Archive
+                #url: archive/
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
           url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+            #- name: Location
+            #url: location/
+            #- name: Office Hours
+          #url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+            #- name: YouTube
+            #url: https://www.youtube.com/@pmichaillat
         - name: GitHub
           url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+            #- name: Substack
+            #url: https://pmichaillat.substack.com
         - name: Twitter
           url: https://twitter.com/pmichaillat
 
@@ -96,7 +95,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Hideaki Takahashi"
       icon: favicon.ico
       iconHeight: 18
 
