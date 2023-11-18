@@ -27,9 +27,9 @@ menu:
 params:
     description: "I am a Professor of Subject at the University of Place. My research covers various topics.
 consequat."
-    author: Name
+    author: Hideaki Takahashi
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "Nov. 2023"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
