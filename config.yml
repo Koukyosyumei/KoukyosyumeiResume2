@@ -56,10 +56,10 @@ params:
           imageHeight: 160
           imageTitle: Hideaki Takahashi
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
+            - name: Google Scholor
+              url: https://scholar.google.com/citations?user=RA3z3UEAAAAJ
+            - name: GitHub
+              url: https://github.com/Koukyosyumei
                 #- name: Data
                 #url: data/
                 #- name: Newsletter
@@ -68,25 +68,80 @@ params:
                 #url: tags/
                 #- name: Archive
                 #url: archive/
+          educations:
+            - title: "The University of Tokyo"
+              date: "Apr. 2019 ~ Mar. 2024"
+              description: "Major GPA 3.91/4.0 (Overall: 3.83/4.0)"
+          publications:
+            - title: "Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+              url: https://arxiv.org/pdf/2304.11436.pdf
+              authors: "Hideaki Takahashi, Jingjing Liu, and Yang Liu."
+              date: "2023"
+          preprints:
+            - title: "VFLAIR, A Research Library and Benchmark for Vertical Federated Learning. arXiv:2310.09827"
+              url: https://arxiv.org/abs/2310.09827
+              authors: "Zou, Tianyuan, Zixuan Gu, Yuanqin He, Hideaki Takahashi, Yang Liu, Guangnan Ye and Ya-Qin Zhang"
+              date: "2023"
+            - title: "Eliminating Label Leakage in Tree‑based Vertical Federated Learning. arXiv:2307.10318"
+              url: https://arxiv.org/pdf/2307.10318.pdf
+              authors: "Hideaki Takahashi, Jingjing Liu, and Yang Liu"
+              date: "2023"
+            - title: "Difficulty of Detecting Overstated Dataset Size in Federated Learning. Technical Report of DPS, 10, Information Processing Society of Japan."
+              url: http://id.nii.ac.jp/1001/00214220/
+              authors: "Hideaki Takahashi, Kohei Ichikawa, and Keichi Takahashi"
+              date: "2021"
+          softwares:
+            - title: AIJack
+              url: https://koukyosyumei.github.io/AIJack/
+              description: "AIJack is an easy-to-use open-source simulation tool for testing the security of your AI system against hijackers. It provides advanced security techniques like Differential Privacy, Homomorphic Encryption, K-anonymity, Debugging, and Federated Learning to guarantee protection for your AI. With AIJack, you can test and simulate defenses against attacks such as Evasion, Poisoning, Model Inversion, Backdoor, and Free-Rider. AIJack also provides a simple DBMS for SQL-based methods."
+            - title: Gymbo
+              url: https://github.com/Koukyosyumei/Gymbo
+              description: Gymbo is a Proof of Concept for a Gradient-based Symbolic Execution Engine implemented from scratch. Building on recent advancements that utilize gradient descent to solve SMT formulas, Gymbo leverages gradient descent to discover input values that fulfill each path constraint during symbolic execution.  
+          research:
+            - title: Institute for AI Industry Research, Tsinghua University
+              role: Federated Learning & Privacy Computing Intern
+              date: "Jan. 2022 ‑ Mar. 2023"
+              description: "Conducted research on federated learning and privacy computing under the supervision of Prof. Yang Liu and Prof. Jingjing Liu."  
+            - title: Nara Institute of Science and Technology
+              role: Visiting Student
+              date: "Aug. 2021 ‑ Sep. 2021" 
+              description: "Conducted research on the free‑rider problem of federated learning under the supervision of Prof. Kohei Ichikawa and Prof. Keichi Takahashi."  
+          industry:
+            - title: UTokyo Economic Consulting Inc.
+              role: Research Assistant
+              date: "Oct. 2020 - present"
+              description: "Worked on research and social implementations of econometrics and machine learning."  
+            - title: RECRUIT
+              role: Data Science Intern
+              date: "Aug. 2020 - Sep. 2020"
+              description: "Worked on a location‑based restaurant recommendation iOS app."
+            - title: M3, Inc.
+              role: Data Analysis Intern
+              date: "Feb. 2020 - Jun. 2020"
+            - title: FRONTEO, Inc.
+              role: Research Intern
+              date: "Sep. 2019 ‑ Mar. 2020"
+              description: "Worked on the detection of anomaly documents with NLP and network analysis."  
+
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: https://drive.google.com/file/d/17FKt_gU3aWdFuzrKQqYVO8czgktXkUni/view?usp=sharing
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:takahashi-hideaki567< a t >g.ecc.u-tokyo.ac.jp
             #- name: Location
             #url: location/
             #- name: Office Hours
           #url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          #- name: Google Scholar
+          #url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
             #- name: YouTube
             #url: https://www.youtube.com/@pmichaillat
-        - name: GitHub
-          url: https://github.com/pmichaillat
+            #- name: GitHub
+            #url: https://github.com/pmichaillat
             #- name: Substack
             #url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+            #- name: Twitter
+            #url: https://twitter.com/pmichaillat
 
     assets:
         disableHLJS: true

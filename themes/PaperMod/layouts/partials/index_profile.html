@@ -30,6 +30,7 @@
             height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- end }}
         {{- end }}
+
         <h1>{{ .title | default site.Title | markdownify }}</h1>
         <span>{{ .subtitle | markdownify }}</span>
         {{- partial "social_icons.html" site.Params.socialIcons -}}
@@ -53,6 +54,103 @@
             {{- end }}
         </div>
         {{- end }}
+        <br />
+
+        <!-- List of Educations -->
+        {{- with .educations }}
+                <div class="educations-list">
+                    <h2>Education</h2>
+                    <ul>
+                        {{- range . }}
+                            <li>
+                                <a href="{{ .url }}">{{ .title }}</a> - {{ .date }}<br>
+                                {{ .description }}
+                            </li>
+                        {{- end }}
+                    </ul>
+                </div>
+        {{- end }}
+        <br />
+
+        <!-- List of Papers -->
+        {{- with .publications }}
+                <div class="publications-list">
+                    <h2>Papers (peer-reviwed)</h2>
+                    <ul>
+                        {{- range . }}
+                            <li>
+                                <a href="{{ .url }}"><b>{{ .title }}</b></a> - {{ .date }}<br>
+                                {{ .authors }}<br>
+                                {{ .description }}
+                            </li>
+                        {{- end }}
+                    </ul>
+                </div>
+        {{- end }}
+        <br />
+
+        {{- with .preprints }}
+                <div class="preprints-list">
+                    <h2>Preprints</h2>
+                    <ul>
+                        {{- range . }}
+                            <li>
+                                <a href="{{ .url }}"><em>{{ .title }}</em></a> - {{ .date }}<br>
+                                {{ .authors }}<br>
+                                {{ .description }}
+                            </li>
+                        {{- end }}
+                    </ul>
+                </div>
+        {{- end }}
+        <br />
+
+        {{- with .softwares }}
+                <div class="softwares-list">
+                    <h2>Softwares</h2>
+                    <ul>
+                        {{- range . }}
+                            <li>
+                                <a href="{{ .url }}"><strong>{{ .title }}</strong></a><br>
+                                {{ .description }}
+                            </li>
+                        {{- end }}
+                    </ul>
+                </div>
+        {{- end }}
+        <br />
+        
+        {{- with .research }}
+                <div class="research-list">
+                    <h2>Research Experience</h2>
+                    <ul>
+                        {{- range . }}
+                            <li>
+                                <strong>{{ .title }}</strong> - {{ .role }}<br>
+                                {{ .date }}<br>
+                                {{ .description }}
+                            </li>
+                        {{- end }}
+                    </ul>
+                </div>
+        {{- end }}
+        <br />
+
+        {{- with .industry }}
+                <div class="industry-list">
+                    <h2>Industry Experience</h2>
+                    <ul>
+                        {{- range . }}
+                            <li>
+                                <strong>{{ .title }}</strong> - {{ .role }}<br>
+                                {{ .date }}<br>
+                                {{ .description }}
+                            </li>
+                        {{- end }}
+                    </ul>
+                </div>
+        {{- end }}
+
     </div>
     {{- end}}
 </div>
