@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+baseURL: "https://koukyosyumei.github.io/KoukyosyumeiResume/" 
 title: Hideaki Takahashi
 paginate: 20
 theme: PaperMod
@@ -14,15 +14,15 @@ menu:
         - name: Papers
           url: papers/
           weight: 1
-        - name: Courses
-          url: courses/
-          weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+            #- name: Courses
+            #url: courses/
+            #weight: 2
+            #- name: Data
+            #url: data/
+            #weight: 3 
+            #- name: Newsletter
+            #url: https://pmichaillat.substack.com
+            #weight: 4
 
 params:
     description: "I’m a 4th-year undergrad at the University of Tokyo, majoring in Informatics. My main interests lie at the intersection of AI, security&privacy, and system technologies."
@@ -50,8 +50,8 @@ params:
     profileMode:
           enabled: true
           title: Hideaki Takahashi
-          subtitle: "I’m a 4th-year undergrad at the University of Tokyo, majoring in Informatics. My main interests lie at the intersection of AI, security&privacy, and system technologies. I’ve gained research experience in privacy-preserving machine learning, secure planning, graph anonymization, distributed system, and HPC, with several first-authored papers, including one accepted at CVPR. I actively contribute to open-source projects, and my project “AIJack,” offering attack, defense, and debugging tools for ML, has gained over 200 stars on GitHub. I’ve also earned several medals at Kaggle."
-          imageUrl: "picture.jpeg"
+          subtitle: "I’m a 4th-year undergrad at the University of Tokyo, majoring in Informatics. I am fortunate to be supervised by Prof. Alex Fukunaga. My main interests lie at the intersection of AI, security&privacy, and computer system. I’ve gained research experience in privacy-preserving machine learning, secure planning, distributed system, and HPC, with several first-authored papers, including one accepted at CVPR. I actively contribute to open-source projects, and my project “AIJack,” offering attack, defense, and debugging tools for ML, has gained over 200 stars on GitHub."
+          imageUrl: "newface.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Hideaki Takahashi
@@ -118,10 +118,25 @@ params:
             - title: M3, Inc.
               role: Data Analysis Intern
               date: "Feb. 2020 - Jun. 2020"
+              description: "Worked on a data analysis project in the field of medical surveys."  
             - title: FRONTEO, Inc.
               role: Research Intern
               date: "Sep. 2019 ‑ Mar. 2020"
               description: "Worked on the detection of anomaly documents with NLP and network analysis."  
+
+          honor:
+            - title: "Kaggle, Hungry Geese"
+              date: 2021
+              result: "67th / 875 teams (bronze medal)"
+            - title: "Kaggle, Santa 2020"
+              date: 2021
+              result: "52nd / 788 teams (bronze medal)"
+            - title: "Kaggle, Google Research Football with Manchester City F.C."
+              date: 2020
+              result: "51st / 1138 teams (silver medal)"
+            - title: "Kaggle, Cornell Birdcall Identification"
+              date: 2020
+              result: "88th / 1390 teams (bronze medal)"
 
     socialIcons:
         - name: CV

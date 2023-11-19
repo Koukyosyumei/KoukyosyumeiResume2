@@ -126,7 +126,7 @@
                     <ul>
                         {{- range . }}
                             <li>
-                                <strong>{{ .title }}</strong> - {{ .role }}<br>
+                                <strong>{{ .title }}</strong> - <em>{{ .role }}</em><br>
                                 {{ .date }}<br>
                                 {{ .description }}
                             </li>
@@ -142,8 +142,23 @@
                     <ul>
                         {{- range . }}
                             <li>
-                                <strong>{{ .title }}</strong> - {{ .role }}<br>
+                                <strong>{{ .title }}</strong> - <em>{{ .role }}</em><br>
                                 {{ .date }}<br>
+                                {{ .description }}
+                            </li>
+                        {{- end }}
+                    </ul>
+                </div>
+        {{- end }}
+        <br />
+        
+        {{- with .honor }}
+                <div class="honor-list">
+                    <h2>Honors</h2>
+                    <ul>
+                        {{- range . }}
+                            <li>
+                                {{ .date }} - <strong>{{ .title }}</strong> - <em>{{ .result }}</em><br>
                                 {{ .description }}
                             </li>
                         {{- end }}
