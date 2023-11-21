@@ -125,18 +125,26 @@ params:
               description: "Worked on the detection of anomaly documents with NLP and network analysis."  
 
           honor:
+            - title: "Kaggle, Google - Fast or Slow? Predict AI Model Runtime"
+              date: 2023
+              result: "45th / 616 teams (silver medal)" 
+              description: "Compiler Optimization, Automated Algorithmic Configuration"  
             - title: "Kaggle, Hungry Geese"
               date: 2021
               result: "67th / 875 teams (bronze medal)"
+              description: "AI Agent, Reinforcement Learning"  
             - title: "Kaggle, Santa 2020"
               date: 2021
               result: "52nd / 788 teams (bronze medal)"
+              description: "AI Agent, Reinforcement Learning, Multi-Armed Bandit"  
             - title: "Kaggle, Google Research Football with Manchester City F.C."
               date: 2020
               result: "51st / 1138 teams (silver medal)"
+              description: "AI Agent, Reinforcement Learning"  
             - title: "Kaggle, Cornell Birdcall Identification"
               date: 2020
               result: "88th / 1390 teams (bronze medal)"
+              description: "Signal Processing"  
 
     socialIcons:
         - name: CV
