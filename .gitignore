@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 .DS_Store
 .hugo_build.lock
+=======
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+>>>>>>> edb45b6 (Initial commit)
