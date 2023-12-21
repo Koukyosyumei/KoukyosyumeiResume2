@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Hideaki Takahashi
-          subtitle: "I’m a 4th-year undergrad at the University of Tokyo, majoring in Informatics. I am fortunate to be supervised by Prof. Alex Fukunaga. My main interests lie at the intersection of AI, security&privacy, and computer system. I’ve gained research experience in privacy-preserving machine learning, secure planning, distributed system, and HPC, with several first-authored papers, including one accepted at CVPR. I actively contribute to open-source projects, and my project “AIJack,” offering attack, defense, and debugging tools for ML, has gained over 200 stars on GitHub."
+          subtitle: "I am a 4th-year undergrad at the University of Tokyo, majoring in Informatics. I am fortunate to be supervised by Prof. Alex Fukunaga. My main interests lie at the intersection of AI, security, privacy, and system. I’ve gained research experience in privacy-preserving machine learning, secure planning, distributed system, and HPC. During my undergrad, some of my first-authored papers was accepted at top conferences like CVPR and AAMAS. My OSS project “AIJack,” offering attack, defense, and debugging tools for ML, has also gained over 200 stars on GitHub."
           imageUrl: "newface.jpg"
           imageWidth: 160
           imageHeight: 160
@@ -77,6 +77,9 @@ params:
               url: https://arxiv.org/pdf/2304.11436.pdf
               authors: "Hideaki Takahashi, Jingjing Liu, and Yang Liu."
               date: "2023"
+            - title: "On the Transit Obfuscation Problem. In AAMAS 2024"
+              authors: "Hideaki Takahashi, Alex Fukunaga"
+              data: "2024"
           preprints:
             - title: "VFLAIR, A Research Library and Benchmark for Vertical Federated Learning. arXiv:2310.09827"
               url: https://arxiv.org/abs/2310.09827
