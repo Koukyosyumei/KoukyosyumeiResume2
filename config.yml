@@ -77,9 +77,9 @@ params:
               url: https://arxiv.org/pdf/2304.11436.pdf
               authors: "Hideaki Takahashi, Jingjing Liu, and Yang Liu."
               date: "2023"
-            - title: "On the Transit Obfuscation Problem. In AAMAS 2024"
+            - title: "On the Transit Obfuscation Problem. International Foundation for Autonomous Agents and Multiagent Systems"
               authors: "Hideaki Takahashi, Alex Fukunaga"
-              data: "2024"
+              date: "2024"
           preprints:
             - title: "VFLAIR, A Research Library and Benchmark for Vertical Federated Learning. arXiv:2310.09827"
               url: https://arxiv.org/abs/2310.09827
