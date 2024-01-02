@@ -56,6 +56,8 @@ params:
           imageHeight: 160
           imageTitle: Hideaki Takahashi
           buttons:
+            - name: Semantic Scholar
+              url: https://www.semanticscholar.org/author/Hideaki-Takahashi/2224016223
             - name: Google Scholor
               url: https://scholar.google.com/citations?user=RA3z3UEAAAAJ
             - name: GitHub
