@@ -78,11 +78,11 @@ params:
             - title: "Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack."
               url: https://arxiv.org/pdf/2304.11436.pdf
               authors: "Hideaki Takahashi, Jingjing Liu, and Yang Liu."
-              publisher: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (accepted rate: 25.8%)"
+              publisher: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (acceptance rate: 25.8%)"
               date: "2023"
             - title: "On the Transit Obfuscation Problem."
               authors: "Hideaki Takahashi, Alex Fukunaga"
-              publisher: "Proceedings of the International Conference on Autonomous Agents and Multi-Agent Systems (accepted rate: 25.9%)"
+              publisher: "Proceedings of the International Conference on Autonomous Agents and Multi-Agent Systems (acceptance rate: 25.9%)"
               date: "2024"
           preprints:
             - title: "VFLAIR, A Research Library and Benchmark for Vertical Federated Learning. arXiv:2310.09827"
