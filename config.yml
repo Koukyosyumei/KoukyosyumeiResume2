@@ -77,25 +77,25 @@ params:
           publications:
             - title: "Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack."
               url: https://arxiv.org/pdf/2304.11436.pdf
-              authors: "Hideaki Takahashi, Jingjing Liu, and Yang Liu."
+              authors: "Hideaki Takahashi*, Jingjing Liu, and Yang Liu."
               publisher: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (acceptance rate: 25.8%)"
               date: "2023"
             - title: "On the Transit Obfuscation Problem."
-              authors: "<u>Hideaki Takahashi</u>, Alex Fukunaga"
+              authors: "Hideaki Takahashi*, Alex Fukunaga"
               publisher: "Proceedings of the International Conference on Autonomous Agents and Multi-Agent Systems (acceptance rate: 25.9%)"
               date: "2024"
           preprints:
             - title: "VFLAIR, A Research Library and Benchmark for Vertical Federated Learning. arXiv:2310.09827"
               url: https://arxiv.org/abs/2310.09827
-              authors: "Zou, Tianyuan, Zixuan Gu, Yuanqin He, Hideaki Takahashi, Yang Liu, Guangnan Ye and Ya-Qin Zhang"
+              authors: "Zou, Tianyuan, Zixuan Gu, Yuanqin He, Hideaki Takahashi*, Yang Liu, Guangnan Ye and Ya-Qin Zhang"
               date: "2023"
             - title: "Eliminating Label Leakage in Tree‑based Vertical Federated Learning. arXiv:2307.10318"
               url: https://arxiv.org/pdf/2307.10318.pdf
-              authors: "Hideaki Takahashi, Jingjing Liu, and Yang Liu"
+              authors: "Hideaki Takahashi*, Jingjing Liu, and Yang Liu"
               date: "2023"
             - title: "Difficulty of Detecting Overstated Dataset Size in Federated Learning. Technical Report of DPS, 10, Information Processing Society of Japan."
               url: http://id.nii.ac.jp/1001/00214220/
-              authors: "Hideaki Takahashi, Kohei Ichikawa, and Keichi Takahashi"
+              authors: "Hideaki Takahashi*, Kohei Ichikawa, and Keichi Takahashi"
               date: "2021"
           softwares:
             - title: AIJack
