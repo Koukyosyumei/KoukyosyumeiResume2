@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Hideaki Takahashi
-          subtitle: "I am a 4th-year undergrad at the University of Tokyo, majoring in Informatics. I am fortunate to be supervised by <a href='http://www.metahack.org/'>Prof. Alex Fukunaga</a>. My main interests lie at the intersection of AI, security, privacy, and systems. I’ve gained research experience in privacy-preserving machine learning, secure planning, distributed systems, and HPC. Some of my first-authored papers were accepted during my undergrad at top conferences like CVPR and AAMAS. My OSS project, “AIJack,” which offers attack, defense, and debugging tools for ML, has also gained over 200 stars on GitHub."
+          subtitle: "I am a 4th-year undergrad at the University of Tokyo, majoring in Informatics. I am fortunate to be supervised by <u><a href='http://www.metahack.org/'>Prof. Alex Fukunaga</a></u>. My main interests lie at the intersection of AI, security, privacy, and systems. I’ve gained research experience in privacy-preserving machine learning, secure planning, distributed systems, and HPC. Some of my first-authored papers were accepted during my undergrad at top conferences like CVPR and AAMAS. My OSS project, “AIJack,” which offers attack, defense, and debugging tools for ML, has also gained over 200 stars on GitHub."
           imageUrl: "newface.jpg"
           imageWidth: 160
           imageHeight: 160
