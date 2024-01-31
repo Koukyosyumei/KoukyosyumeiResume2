@@ -79,7 +79,7 @@
                     <ul>
                         {{- range . }}
                             <li>
-                                <b>[{{ .venue }}]</b> <a href="{{ .url }}">{{ .title }}</a> <em>{{ .publisher }}</em> - {{ .date }}<br>
+                                <b>[{{ .venue }}]</b> <a href="{{ .url }}"><em>{{ .title }}</em></a> {{ .publisher }} - {{ .date }}<br>
                                 {{ .authors }}<br>
                                 {{ .description }}
                             </li>
@@ -95,7 +95,7 @@
                     <ul>
                         {{- range . }}
                             <li>
-                                <a href="{{ .url }}"><em>{{ .title }}</em></a> - {{ .date }}<br>
+                                <a href="{{ .url }}">{{ .title }}</a> - {{ .date }}<br>
                                 {{ .authors }}<br>
                                 {{ .description }}
                             </li>
