@@ -104,7 +104,9 @@ params:
           softwares:
             - title: AIJack
               url: https://koukyosyumei.github.io/AIJack/
-              img: <img src="https://badgen.net/github/stars/Koukyosyumei/AIjack?color=green">
+              badges:
+                  - url: "https://badgen.net/github/stars/Koukyosyumei/AIjack?color=green"
+                  - url: "https://badgen.net/github/forks/Koukyosyumei/AIjack"
               description: "AIJack is an easy-to-use open-source simulation tool for testing the security of your AI system against hijackers. It provides advanced security techniques like Differential Privacy, Homomorphic Encryption, K-anonymity, Debugging, and Federated Learning to guarantee protection for your AI. With AIJack, you can test and simulate defenses against attacks such as Evasion, Poisoning, Model Inversion, Backdoor, and Free-Rider. AIJack also provides a simple DBMS for SQL-based methods."
             - title: Gymbo
               url: https://github.com/Koukyosyumei/Gymbo
