@@ -104,7 +104,7 @@ params:
           softwares:
             - title: AIJack
               url: https://koukyosyumei.github.io/AIJack/
-              description: "AIJack is an easy-to-use open-source simulation tool for testing the security of your AI system against hijackers. It provides advanced security techniques like Differential Privacy, Homomorphic Encryption, K-anonymity, Debugging, and Federated Learning to guarantee protection for your AI. With AIJack, you can test and simulate defenses against attacks such as Evasion, Poisoning, Model Inversion, Backdoor, and Free-Rider. AIJack also provides a simple DBMS for SQL-based methods."
+              description: "<img src='https://badgen.net/github/stars/Koukyosyumei/AIjack?color=green'><br> AIJack is an easy-to-use open-source simulation tool for testing the security of your AI system against hijackers. It provides advanced security techniques like Differential Privacy, Homomorphic Encryption, K-anonymity, Debugging, and Federated Learning to guarantee protection for your AI. With AIJack, you can test and simulate defenses against attacks such as Evasion, Poisoning, Model Inversion, Backdoor, and Free-Rider. AIJack also provides a simple DBMS for SQL-based methods."
             - title: Gymbo
               url: https://github.com/Koukyosyumei/Gymbo
               description: Gymbo is a Proof of Concept for a Gradient-based Symbolic Execution Engine implemented from scratch. Building on recent advancements that utilize gradient descent to solve SMT formulas, Gymbo leverages gradient descent to discover input values that fulfill each path constraint during symbolic execution.  
