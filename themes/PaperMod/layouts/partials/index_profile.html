@@ -112,7 +112,10 @@
                         {{- range . }}
                             <li>
                                 <a href="{{ .url }}"><strong>{{ .title }}</strong></a><br>
-                                {{ .img }}<br>
+                                {{- with .badges }}
+                                    <img src="{{ .url }}">
+                                {{- end }}
+                                <be />
                                 {{ .description }}
                             </li>
                         {{- end }}
