@@ -111,7 +111,8 @@
                     <ul>
                         {{- range . }}
                             <li>
-                                <a href="{{ .url }}"><strong>{{ .title }}</strong></a><br>
+                                <a href="{{ .url }}"><strong>{{ .title }}</strong></a>
+                                &nbsp
                                 {{- with .badges }}
                                     {{- range . }}
                                         <img src="{{ .url }}">
