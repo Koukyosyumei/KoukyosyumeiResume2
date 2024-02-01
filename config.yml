@@ -160,7 +160,7 @@ params:
             - title: "Kaggle, Cornell Birdcall Identification"
               date: 2020
               result: "88th / 1390 teams (bronze medal)"
-              description: "Signal Processing"  
+              description: "Audio Classification, Signal Processing"  
 
     socialIcons:
         - name: CV
