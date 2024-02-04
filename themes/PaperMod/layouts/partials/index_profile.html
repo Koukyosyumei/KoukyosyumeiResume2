@@ -165,8 +165,7 @@
                     <ul>
                         {{- range . }}
                             <li>
-                                <strong>{{ .title }} - {{ .result }}</strong><br>
-                                {{ .date }}<br>
+                                <strong>{{ .title }}: {{ .result }}</strong> - {{ .date }}<br>
                                 {{ .description }}
                             </li>
                         {{- end }}
