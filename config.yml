@@ -123,10 +123,14 @@ params:
               date: "Aug. 2021 ‑ Sep. 2021" 
               description: "Conducted research on the free‑rider problem of federated learning under the supervision of Prof. Kohei Ichikawa and Prof. Keichi Takahashi."  
           industry:
+            - title: Apple Inc.
+              role: Technical Internship: AIML / Software Engineer
+              date: "Feb. 2024 - present"
+              description: "Working on the development of tools for qualifying Siri features."
             - title: UTokyo Economic Consulting Inc.
               role: Research Assistant
               date: "Oct. 2020 - present"
-              description: "Worked on research and social implementations of econometrics and machine learning."  
+              description: "Working on research and social implementations of econometrics and machine learning."  
             - title: RECRUIT
               role: Data Science Intern
               date: "Aug. 2020 - Sep. 2020"
