@@ -77,6 +77,7 @@ params:
           publications:
             - title: "On the Transit Obfuscation Problem."
               venue: "AAMAS'24"
+              url: https://arxiv.org/pdf/2402.07420.pdf
               authors: "Hideaki Takahashi*, Alex Fukunaga"
               publisher: "Proceedings of the International Conference on Autonomous Agents and Multi-Agent Systems"
               date: "2024"
@@ -88,7 +89,7 @@ params:
               date: "2023"
             - title: "VFLAIR, A Research Library and Benchmark for Vertical Federated Learning."
               venue: "ICLR'24"
-              url: https://arxiv.org/abs/2310.09827
+              url: https://arxiv.org/pdf/2310.09827.pdf
               authors: "Zou, Tianyuan, Zixuan Gu, Yuanqin He, Hideaki Takahashi, Yang Liu, Guangnan Ye and Ya-Qin Zhang"
               publisher: "Proceedings of the International Conference on Learning Representations"
               date: "2024"
