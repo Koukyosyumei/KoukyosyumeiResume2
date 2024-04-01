@@ -122,7 +122,7 @@
                                 {{ .description }}
                                 {{- with .subprojects }}
                                         {{- range . }}
-                                            <a href="{{ .url }}"> - <em>{{ .title }}</em>: </a> {{ .description }}
+                                            <a href="{{ .url }}"> - <em>{{ .title }}</em>: </a> {{ .description }} <br/>
                                         {{- end }}
                                 {{- end }}
                             </li>
