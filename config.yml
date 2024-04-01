@@ -119,7 +119,10 @@ params:
               subprojects:
                   - title: MyCompiler
                     url: https://github.com/Koukyosyumei/MyCompiler
-                    description: Toy compiler from a simple language to LLVM-IR implemented from scratch in Haskell
+                    description: Toy compiler from a simple language to LLVM-IR implemented from scratch in Haskell.
+                  - title: MyPlanner
+                    url: https://github.com/Koukyosyumei/MyPlanner
+                    description: PDDL Solver implemented in C++ from scratch.  
           research:
             - title: Institute for AI Industry Research, Tsinghua University
               role: Federated Learning & Privacy Computing Intern

@@ -121,11 +121,9 @@
                                 {{- end }}
                                 {{ .description }}
                                 {{- with .subprojects }}
-                                    <ul>
                                         {{- range . }}
-                                            &nbsp;<li> <a href="{{ .url }}"> {{ .title }}: </a> {{ .description }} </li>
+                                            <li> <a href="{{ .url }}"> - <em>{{ .title }}</em>: </a> {{ .description }} </li>
                                         {{- end }}
-                                    </ul>
                                 {{- end }}
                             </li>
                         {{- end }}
