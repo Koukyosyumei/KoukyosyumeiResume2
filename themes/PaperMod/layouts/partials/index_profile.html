@@ -120,10 +120,10 @@
                                 {{- end }}
                                 <br />
                                 {{ .description }}
-                                {{- with .subproject }}
+                                {{- with .subprojects }}
                                     {{- range . }}
                                         <li>
-                                            <a href="{{ .url }}">- <strong>{{ .sptitle }}</strong></a> {{ .spdescription }}
+                                            <a href="{{ .url }}">- <strong>{{ .title }}</strong></a> {{ .description }}
                                         </li>
                                     {{- end }}
                                 {{- end }}
