@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Hideaki Takahashi
-          subtitle: "Hi, everyone; I'm a recent graduate from the University of Tokyo with a Bachelor of Arts and Science in Informatics (class of 2024). I had the privilege of working under <u><a href='http://www.metahack.org/'>Prof. Alex Fukunaga</a></u>, whose guidance was invaluable. My research interests lie at the exciting intersection of AI, security, privacy, and systems. During my undergrad, I was fortunate to have some of my first-authored papers accepted at top conferences like CVPR and AAMAS. I'm also passionate about open-source development, and my project 'AIJack' - a toolkit for attacking, defending, and debugging machine learning models - has gained over 300 stars on GitHub!"
+          subtitle: "Hi, everyone; I'm a recent graduate from the University of Tokyo with a Bachelor of Arts and Science in Informatics (class of 2024). I had the privilege of working under <u><a href='http://www.metahack.org/'>Prof. Alex Fukunaga</a></u>, whose guidance was invaluable. My research interests lie at the exciting intersection of AI, security, privacy, and systems. <br/> During my undergrad, I was fortunate to have some of my first-authored papers accepted at top conferences like CVPR and AAMAS. I'm also passionate about open-source development, and my project 'AIJack' - a toolkit for attacking, defending, and debugging machine learning models - has gained over 300 stars on GitHub!"
           imageUrl: "newface.jpg"
           imageWidth: 160
           imageHeight: 160
