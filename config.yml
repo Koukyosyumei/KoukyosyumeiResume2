@@ -118,8 +118,8 @@ params:
               description: This series aims to implement various algorithms and solvers from scratch.
               subprojects:
                   - stitle: MyCompiler
-                      surl: https://github.com/Koukyosyumei/MyCompiler
-                      sdescription: Toy compiler from a simple language to LLVM-IR implemented from scratch in Haskell
+                    surl: https://github.com/Koukyosyumei/MyCompiler
+                    sdescription: Toy compiler from a simple language to LLVM-IR implemented from scratch in Haskell
           research:
             - title: Institute for AI Industry Research, Tsinghua University
               role: Federated Learning & Privacy Computing Intern
