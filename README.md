@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Minimalist Hugo Template for Academic Websites
 
 This repository contains a [Hugo](https://github.com/gohugoio/hugo) template to create a personal academic website. The template uses the [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod), but it modifies it in various ways to be more adapted to academic websites and more minimalist. The website is hosted on [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
@@ -87,4 +86,3 @@ Thank you to [Joel Sleeba](https://github.com/joelsleeba) for sharing code to ce
 + [Billy Ram's website](https://billygrahamram.github.io)
 =======
 # resume-template
->>>>>>> edb45b6 (Initial commit)
