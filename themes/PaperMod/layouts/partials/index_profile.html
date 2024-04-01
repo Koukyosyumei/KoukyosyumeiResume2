@@ -117,13 +117,17 @@
                                     {{- range . }}
                                         <img src="{{ .url }}">
                                     {{- end }}
+                                    <br />
                                 {{- end }}
-                                <br />
                                 {{ .description }}
                                 {{- with .subprojects }}
-                                    {{- range . }}
-                                        <a href="{{ .surl }}"> <strong> - {{ .stitle }}</strong></a> {{ .sdescription }}
-                                    {{- end }}
+                                    <ul>
+                                        {{- range . }}
+                                            <li>
+                                            <a href="{{ .url }}"> - {{ .title }}: </a> {{ .description }}
+                                            </li>
+                                        {{- end }}
+                                    </ul>
                                 {{- end }}
                             </li>
                         {{- end }}

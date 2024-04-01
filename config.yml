@@ -114,12 +114,12 @@ params:
               badges:
                   - url: "https://badgen.net/github/stars/Koukyosyumei/Gymbo?color=green"                
               description: Gymbo is a Proof of Concept for a Gradient-based Symbolic Execution Engine implemented from scratch. Building on recent advancements that utilize gradient descent to solve SMT formulas, Gymbo leverages gradient descent to discover input values that fulfill each path constraint during symbolic execution.  
-            - title: My
+            - title: "My*"
               description: This series aims to implement various algorithms and solvers from scratch.
               subprojects:
-                  - stitle: MyCompiler
-                    surl: https://github.com/Koukyosyumei/MyCompiler
-                    sdescription: Toy compiler from a simple language to LLVM-IR implemented from scratch in Haskell
+                  - title: MyCompiler
+                    url: https://github.com/Koukyosyumei/MyCompiler
+                    description: Toy compiler from a simple language to LLVM-IR implemented from scratch in Haskell
           research:
             - title: Institute for AI Industry Research, Tsinghua University
               role: Federated Learning & Privacy Computing Intern
