@@ -117,12 +117,15 @@ params:
             - title: "My*"
               description: This series aims to implement various algorithms, compiliers and solvers from scratch.
               subprojects:
+                  - title: MyDisassembler
+                    url: https://github.com/Koukyosyumei/MyDisassembler
+                    description: Disassembler for X86-64 implemented from scratch in C++.
                   - title: MyCompiler
                     url: https://github.com/Koukyosyumei/MyCompiler
                     description: Toy compiler from a simple language to LLVM-IR implemented from scratch in Haskell.
                   - title: MyPlanner
                     url: https://github.com/Koukyosyumei/MyPlanner
-                    description: PDDL Solver implemented in C++ from scratch.
+                    description: PDDL Solver implemented from scratch in C++.
                   - title: MyOptimizer
                     url: https://github.com/Koukyosyumei/MyOptimizer
                     description: Implementations of popular optimization and search algorithms.  
