@@ -161,6 +161,11 @@ params:
               description: "Worked on the detection of anomaly documents with NLP and network analysis."  
 
           honor:
+            - title: "Funai Overseas Scholarship"
+              date: 2024
+              url: https://funaifoundation.jp/scholarship/en/scholarship_guidelines_phd.html
+              result: Scholarship
+              description: "Granted 2 years of tuition and stipend"
             - title: "Kaggle, Google - Fast or Slow? Predict AI Model Runtime"
               date: 2023
               url: https://www.kaggle.com/competitions/predict-ai-model-runtime
