@@ -10,9 +10,7 @@ AI・機械学習、セキュリティおよびシステムの境界領域を研
 * 東京大学教養学部学際科学科B群総合情報学コース 2019年4月 ~ 2024年3月 
     * 通算GPA 3.83/4.0、専攻GPA 3.91/4.0
 
-### 論文 
-
-#### 国際会議 (査読有り)
+### 査読付き論文 
 
 * [AAMAS'24] [On the Transit Obfuscation Problem](https://arxiv.org/pdf/2402.07420.pdf). Proceedings of the International Conference on Autonomous Agents and Multi-Agent Systems - 2024
     * Hideaki Takahashi*, Alex Fukunaga
@@ -21,7 +19,7 @@ AI・機械学習、セキュリティおよびシステムの境界領域を研
 * [ICLR'24] [VFLAIR, A Research Library and Benchmark for Vertical Federated Learning](https://arxiv.org/pdf/2310.09827.pdf). Proceedings of the International Conference on Learning Representations - 2024
     * Zou, Tianyuan, Zixuan Gu, Yuanqin He, Hideaki Takahashi, Yang Liu, Guangnan Ye and Ya-Qin Zhang
 
-#### プリント・テクニカルレポート
+### プリント・テクニカルレポート
 
 * Eliminating Label Leakage in Tree‑based Vertical Federated Learning. arXiv:2307.10318 - 2023
     * Hideaki Takahashi*, Jingjing Liu, and Yang Liu
