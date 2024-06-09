@@ -12,11 +12,11 @@ AI・機械学習、セキュリティおよびシステムの境界領域を研
 
 ### 査読付き論文 
 
-* [AAMAS'24] [On the Transit Obfuscation Problem](https://arxiv.org/pdf/2402.07420.pdf). Proceedings of the International Conference on Autonomous Agents and Multi-Agent Systems - 2024
+* **[AAMAS'24]** [On the Transit Obfuscation Problem](https://arxiv.org/pdf/2402.07420.pdf). Proceedings of the International Conference on Autonomous Agents and Multi-Agent Systems - 2024
     * Hideaki Takahashi*, Alex Fukunaga
-* [CVPR'23] [Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack](https://arxiv.org/pdf/2304.11436.pdf). Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition - 2023
+* **[CVPR'23]** [Breaching FedMD, Image Recovery via Paired-Logits Inversion Attack](https://arxiv.org/pdf/2304.11436.pdf). Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition - 2023
     * Hideaki Takahashi*, Jingjing Liu, and Yang Liu.
-* [ICLR'24] [VFLAIR, A Research Library and Benchmark for Vertical Federated Learning](https://arxiv.org/pdf/2310.09827.pdf). Proceedings of the International Conference on Learning Representations - 2024
+* **[ICLR'24]** [VFLAIR, A Research Library and Benchmark for Vertical Federated Learning](https://arxiv.org/pdf/2310.09827.pdf). Proceedings of the International Conference on Learning Representations - 2024
     * Zou, Tianyuan, Zixuan Gu, Yuanqin He, Hideaki Takahashi, Yang Liu, Guangnan Ye and Ya-Qin Zhang
 
 ### プリント・テクニカルレポート
