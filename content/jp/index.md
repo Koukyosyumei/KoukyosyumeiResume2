@@ -50,6 +50,23 @@ AI・機械学習、セキュリティおよびシステムの境界領域を研
     * 2021年8月 ~ 2021年9月
     * Kohei Ichikawa教授およびKeichi Takahashi教授のもとで、連合学習が抱えるフリーライダー問題に関する研究を行った。
 
+### 実務経験
+
+* Apple Inc. - Technical Internship: AIML/Software Engineer
+    * 2024年2月 ~ 現在
+
+* UTokyo Economic Consulting Inc. - リサーチアシスタント
+    * 2020年10月 ~ 現在
+ 
+* RECRUIT - データサイエンティスト (インターンシップ)
+    * 2020年8月 ~ 2020年9月
+ 
+* M3, Inc - データアナリスト (インターンシップ)
+    * 2020年2月 ~ 2020年6月
+ 
+* FRONTEO, Inc. - 機械学習エンジニア・リサーチャー (インターンシップ)
+    * 2019年9月 ~ 2020年3月
+
 ### 受賞歴
 
 * [Kaggle, Google - Fast or Slow? Predict AI Model Runtime](https://www.kaggle.com/competitions/predict-ai-model-runtime) - 2023
