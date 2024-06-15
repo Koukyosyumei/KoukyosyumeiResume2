@@ -42,6 +42,10 @@ AI・機械学習、セキュリティおよびシステムの境界領域を研
 
 ### 研究経験
 
+* Fukunaga Lab, The University of Tokyo - Undergraduate Student (卒業研究配属)
+    * 2023年4月 ~ 2024年3月
+    * Alex Fukunaga教授のもとで、プライバシー保護型AI Planningに関する研究を行った。
+
 * Institute for AI Industry Research, Tsinghua University - Federated Learning & Privacy Computing Intern
     * 2022年1月 ~ 2023年2月
     * Yang Liu教授およびJingjing Liu教授のもとで、連合学習 (Federated Learning) およびプライバシー保護型機械学習に関する研究を行った。
