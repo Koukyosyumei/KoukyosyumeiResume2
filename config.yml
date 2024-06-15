@@ -131,8 +131,9 @@ params:
                     description: Implementations of popular optimization and search algorithms.  
           research:
             - title: Fukunaga Lab, The University of Tokyo
-              data: "Apr. 2023 - Mar. 2023"
-              description: "Conducted research on the transit obfuscation problem, which is a new task of privacy-preserving AI planing, under the supervision of Prof. Alex Fukunaga."
+              role: "Undergraduate Student"
+              date: "Apr. 2023 - Mar. 2023"
+              description: "Conducted research on the transit obfuscation problem, which is a new task of privacy-preserving AI planning, under the supervision of Prof. Alex Fukunaga."
             - title: Institute for AI Industry Research, Tsinghua University
               role: Federated Learning & Privacy Computing Intern
               date: "Jan. 2022 ‑ Feb. 2023"
