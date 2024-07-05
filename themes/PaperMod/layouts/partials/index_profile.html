@@ -178,6 +178,20 @@
                 </div>
         {{- end }}
 
+        {{- with .service }}
+                <div class="service-list">
+                    <h2>Service</h2>
+                    <ul>
+                        {{- range . }}
+                            <li>
+                                <strong>{{ .title }}</strong><br>
+                                {{ .description }}
+                            </li>
+                        {{- end }}
+                    </ul>
+                </div>
+        {{- end }}
+
     </div>
     {{- end}}
 </div>
