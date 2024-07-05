@@ -198,9 +198,16 @@ params:
 
           service:
             - title: "Reviewer"
-              description: "IEEE transactions on network science and engineering"
+              subprojects:
+                  - title: "IEEE transactions on network science and engineering"
             - title: "OSS Contributor"
-              description: "PySyft (platform for secure and private Deep Learning), Nebula (distributed graph database)"
+              subprojects:
+                  - title: PySyft
+                    url: https://github.com/OpenMined/PySyft
+                    description: Platform for secure and private Deep Learning
+                  - title: Nebula
+                    url: https://github.com/vesoft-inc/nebula
+                    description: Distributed graph database
 
     socialIcons:
         - name: CV
