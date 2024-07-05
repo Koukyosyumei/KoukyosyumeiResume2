@@ -187,6 +187,11 @@
                             <li>
                                 <strong>{{ .title }}</strong><br>
                                 {{ .description }}
+                                {{- with .subprojects }}
+                                        {{- range . }}
+                                            <br/> <a href="{{ .url }}"> - <em>{{ .title }}</em>: </a> {{ .description }}
+                                        {{- end }}
+                                {{- end }}
                             </li>
                         {{- end }}
                     </ul>
