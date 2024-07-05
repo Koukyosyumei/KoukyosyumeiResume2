@@ -194,7 +194,13 @@ params:
               date: 2020
               url: https://www.kaggle.com/c/birdsong-recognition
               result: "88th/1390 teams (bronze medal)"
-              description: "Audio Classification, Signal Processing"  
+              description: "Audio Classification, Signal Processing"
+
+          service:
+            - title: "Reviewer"
+              description: "IEEE transactions on network science and engineering"
+            - title: "OSS Contributor"
+              description: "PySyft (platform for secure and private Deep Learning), Nebula (distributed graph database)"
 
     socialIcons:
         - name: CV
