@@ -56,6 +56,8 @@ params:
           imageHeight: 160
           imageTitle: Hideaki Takahashi
           buttons:
+            - name: CV
+              url: https://drive.google.com/file/d/17FKt_gU3aWdFuzrKQqYVO8czgktXkUni/view?usp=sharing
             - name: Semantic Scholar
               url: https://www.semanticscholar.org/author/Hideaki-Takahashi/2224016223
             - name: Google Scholor
@@ -210,10 +212,10 @@ params:
                     description: Distributed graph database
 
     socialIcons:
-        - name: CV
-          url: https://drive.google.com/file/d/17FKt_gU3aWdFuzrKQqYVO8czgktXkUni/view?usp=sharing
         - name: Email
           url: mailto:takahashi-hideaki567< a t >g.ecc.u-tokyo.ac.jp
+        # - name: CV
+        #  url: https://drive.google.com/file/d/17FKt_gU3aWdFuzrKQqYVO8czgktXkUni/view?usp=sharing
             #- name: Location
             #url: location/
             #- name: Office Hours
