@@ -57,7 +57,7 @@ params:
           imageTitle: Hideaki Takahashi
           buttons:
             - name: CV
-              url: https://drive.google.com/file/d/17FKt_gU3aWdFuzrKQqYVO8czgktXkUni/view?usp=sharing
+              url: https://koukyosyumei.github.io/KoukyosyumeiResume/assets/CV.pdf
             - name: Semantic Scholar
               url: https://www.semanticscholar.org/author/Hideaki-Takahashi/2224016223
             - name: Google Scholor
