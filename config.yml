@@ -201,7 +201,8 @@ params:
           service:
             - title: "Reviewer"
               subprojects:
-                  - title: "IEEE transactions on network science and engineering"
+                  - title: "IEEE Transactions on Network Science and Engineering (Impact Factor: 6.7)"
+                  - title: "IEEE Transactions on Medical Imaging (Impact Factor: 10.0)"
             - title: "OSS Contributor"
               subprojects:
                   - title: PySyft
