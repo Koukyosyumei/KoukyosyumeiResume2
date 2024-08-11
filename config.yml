@@ -75,7 +75,7 @@ params:
           educations:
             - title: "The University of Tokyo"
               date: "Apr. 2019 ~ Mar. 2024"
-              description: "Bachelor of Arts and Science (Informatics). Major GPA 3.91/4.0 (Overall: 3.83/4.0)"
+              description: "Bachelor of Arts and Science (Informatics)"
           publications:
             - title: "On the Transit Obfuscation Problem."
               venue: "AAMAS'24"
