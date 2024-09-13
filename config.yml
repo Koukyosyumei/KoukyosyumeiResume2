@@ -25,7 +25,7 @@ menu:
             #weight: 4
 
 params:
-    description: "I’m an incoming Ph.D. student. I received a Bachelor of Arts and Science at the University of Tokyo in 2024, majoring in Informatics. My main interests lie at the intersection of AI, security, privacy, and system technologies."
+    description: "I am a first-year PhD student in the Computer Science department at Columbia University. I received a Bachelor of Arts and Science at the University of Tokyo in 2024, majoring in Informatics. My main interests lie at the intersection of AI, security, privacy, and system technologies."
     author: Hideaki Takahashi
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "Nov. 2023"
@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Hideaki Takahashi
-          subtitle: "<u><a href='https://koukyosyumei.github.io/KoukyosyumeiResume/jp/'>日本語版はこちら</a></u><br/><br/>I am a first year PhD student in Computer Science department at Colubmia University, adivised by <u><a href='https://www.cs.columbia.edu/~junfeng/'>Prof. Junfeng Yang</a></u>. My research interests revolve around AI, security, privacy, and systems.<br/><br/>I received a Bachelor of Arts and Science in Informatics from the University of Tokyo, where I was advised by <u><a href='http://www.metahack.org/'>Prof. Alex Fukunaga</a></u>, focusing on privacy-preserving AI planning. During my undergraduate studies, I spent a gap year as a research intern at Tsinghua University under the supervision of <u><a href='https://sites.google.com/site/yangliuveronica/home'>Prof. Yang Liu</a></u> and <u><a href='https://scholar.google.com/citations?user=BzJ_GboAAAAJ'>Prof. Jingjing Liu</a></u>, investigating security vulnerabilities in Federated Learning.<br/><br/>I am also passionate about open-source development. My project, AIJack, which aims to attack, defend, and debug machine learning models, has gained traction with over 300 stars on GitHub and has been widely used in research."
+          subtitle: "<u><a href='https://koukyosyumei.github.io/KoukyosyumeiResume/jp/'>日本語版はこちら</a></u><br/><br/>I am a first-year PhD student in Computer Science department at Columbia University, advised by <u><a href='https://www.cs.columbia.edu/~junfeng/'>Prof. Junfeng Yang</a></u>. My research interests revolve around AI, security, privacy, and systems.<br/><br/>I received a Bachelor of Arts and Science in Informatics from the University of Tokyo, where I was advised by <u><a href='http://www.metahack.org/'>Prof. Alex Fukunaga</a></u>, focusing on privacy-preserving AI planning. During my undergraduate studies, I spent a gap year as a research intern at Tsinghua University under the supervision of <u><a href='https://sites.google.com/site/yangliuveronica/home'>Prof. Yang Liu</a></u> and <u><a href='https://scholar.google.com/citations?user=BzJ_GboAAAAJ'>Prof. Jingjing Liu</a></u>, investigating security vulnerabilities in Federated Learning.<br/><br/>I am also passionate about open-source development. My project, AIJack, which aims to attack, defend, and debug machine learning models, has gained traction with over 300 stars on GitHub and has been widely used in research."
           imageUrl: "newface.jpg"
           imageWidth: 160
           imageHeight: 160
@@ -60,7 +60,7 @@ params:
               url: https://koukyosyumei.github.io/KoukyosyumeiResume/assets/CV.pdf
             - name: Semantic Scholar
               url: https://www.semanticscholar.org/author/Hideaki-Takahashi/2224016223
-            - name: Google Scholor
+            - name: Google Scholar
               url: https://scholar.google.com/citations?user=RA3z3UEAAAAJ
             - name: GitHub
               url: https://github.com/Koukyosyumei
@@ -73,6 +73,9 @@ params:
                 #- name: Archive
                 #url: archive/
           educations:
+            - title: "Columbia University"
+              date: "Sep. 2024 ~ "
+              description: "Ph.D. Student (Computer Science)"
             - title: "The University of Tokyo"
               date: "Apr. 2019 ~ Mar. 2024"
               description: "Bachelor of Arts and Science (Informatics)"
@@ -122,7 +125,7 @@ params:
                   - url: "https://badgen.net/github/stars/Koukyosyumei/Gymbo?color=green"                
               description: "Symbolic execution engine using gradient descent to solve path constraints"  
             - title: "My*"
-              description: This series aims to implement various algorithms, compiliers and solvers from scratch.
+              description: This series aims to implement various algorithms, compilers, and solvers from scratch.
               subprojects:
                   - title: MyDisassembler
                     url: https://github.com/Koukyosyumei/MyDisassembler
@@ -145,7 +148,7 @@ params:
               role: Federated Learning & Privacy Computing Intern
               date: "Jan. 2022 ‑ Feb. 2023"
               description: "Conducted research on federated learning and privacy computing under the supervision of Prof. Yang Liu and Prof. Jingjing Liu."  
-            - title: Laboratory for Software Design and Analyis, Nara Institute of Science and Technology
+            - title: Laboratory for Software Design and Analysis, Nara Institute of Science and Technology
               role: Visiting Student
               date: "Aug. 2021 ‑ Sep. 2021" 
               description: "Conducted research on the free‑rider problem of federated learning under the supervision of Prof. Kohei Ichikawa and Prof. Keichi Takahashi."  
@@ -176,7 +179,7 @@ params:
               date: 2024
               url: https://funaifoundation.jp/scholarship/en/scholarship_guidelines_phd.html
               result: Scholarship
-              description: "Granted 2 years of tuition and stipend"
+              description: "Granted two years of tuition and stipend"
             - title: "Kaggle, Google - Fast or Slow? Predict AI Model Runtime"
               date: 2023
               url: https://www.kaggle.com/competitions/predict-ai-model-runtime
