@@ -80,7 +80,7 @@
                         {{- range . }}
                             <li>
                                 <b>[{{ .venue }}]</b> <a href="{{ .url }}"><em>{{ .title }}</em></a> {{ .publisher }} - {{ .date }}<br>
-                                {{ .authors }}<br>
+                                {{ .authors | markdownify }}<br>
                                 {{ .description }}
                             </li>
                         {{- end }}
@@ -96,7 +96,7 @@
                         {{- range . }}
                             <li>
                                 <a href="{{ .url }}"><em>{{ .title }}</em></a> - {{ .date }}<br>
-                                {{ .authors }}<br>
+                                {{ .authors | markdownify }}<br>
                                 {{ .description }}
                             </li>
                         {{- end }}
